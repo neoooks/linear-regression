@@ -1,3 +1,3 @@
-# Linear-Regression-Model 
+# Linear Regression 
 
-Making predictions using the Linear Regression model alongside model adequacy checks, to evaluate the goodness-of-fit using R^2 and adjusted R^2.
+Making predictions using Linear Regression alongside model adequacy checks, to evaluate the goodness-of-fit using R^2 and adjusted R^2.
